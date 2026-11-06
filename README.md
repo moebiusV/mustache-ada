@@ -1,3 +1,4 @@
+<!-- {% raw %} -->
 # mustache-ada
 
 A complete [Mustache][] template engine in Ada: the whole core spec —
@@ -103,3 +104,5 @@ Packaged for Alpine by the `ada-on-alpine` aports overlay as
 ## License
 
 ISC.  See `LICENSE`.
+
+<!-- {% endraw %} -->
