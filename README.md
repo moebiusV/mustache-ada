@@ -1,6 +1,8 @@
 <!-- {% raw %} -->
 # mustache-ada
 
+[github.com/moebiusV/mustache-ada](https://github.com/moebiusV/mustache-ada) | `git clone https://github.com/moebiusV/mustache-ada`
+
 A complete [Mustache][] template engine in Ada: the whole core spec —
 interpolation with HTML escaping, `{{{ }}}` / `{{& }}` raw tags, comments,
 set-delimiter tags, sections and inverted sections, partials (with
