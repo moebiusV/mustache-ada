@@ -1,7 +1,7 @@
 <!-- {% raw %} -->
 # mustache-ada
 
-Index: [All Projects](https://moebiusv.github.io/) | Git Repository: [github.com/moebiusV/mustache-ada](https://github.com/moebiusV/mustache-ada) | `git clone https://github.com/moebiusV/mustache-ada`
+Parent: [All Projects](https://moebiusv.github.io/) | Git Repo: [github.com/moebiusV/mustache-ada](https://github.com/moebiusV/mustache-ada) | `git clone https://github.com/moebiusV/mustache-ada`
 
 A complete [Mustache][] template engine in Ada: the whole core spec —
 interpolation with HTML escaping, `{{{ }}}` / `{{& }}` raw tags, comments,
